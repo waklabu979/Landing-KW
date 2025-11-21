@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://journal.ibtl.edu.tl/sitemap.xml
