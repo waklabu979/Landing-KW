@@ -8,8 +8,2139 @@
 
 
 <url>
-  <loc>https://jurnalmadani.org/</loc>
-  <lastmod>2025-11-21T20:44:48+00:00</lastmod>
+  <loc>https://journal.namsifl.uz/</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/index/index</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/index/user/register</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/index/login</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/issue/view/1</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/xalqaro_konferensiya</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/xalqaro_konferensiya/issue/view/16</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/index/about/aboutThisPublishingSystem</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/about/privacy</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/xalqaro_konferensiya/about/privacy</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/index/login?source=https%3A%2F%2Fjournal.namsifl.uz%2Findex.php%2Findex%2Fuser%2Fprofile%2Froles</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/index/login/lostPassword</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/index/user/register?source=</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/index</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/issue/archive</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/about</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/about/submissions</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/about/editorialTeam</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/about/contact</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/user/register</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/search</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/login</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/issue/view/1/journal.namsifl.uz</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/3</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/3/3</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/4</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/4/4</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/6</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/6/6</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/8</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/8/7</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/9</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/9/8</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/10</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/10/9</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/11</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/11/10</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/12</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/12/12</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/13</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/13/13</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/14</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/14/14</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/15</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/15/15</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/16</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/16/16</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/17</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/17/17</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/18</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/18/18</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/20</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/20/20</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/21</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/21/21</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/7</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/7/23</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/23</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/23/24</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/24</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/24/25</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/25</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/25/26</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/26</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/26/27</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/109-111</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/109-111/28</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/28</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/28/29</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/29</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/29/30</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/30</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/30/35</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/31</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/31/33</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/32</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/32/31</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/33</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/33/34</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/34</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/34/36</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/35</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/35/37</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/36</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/36/39</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/37</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/37/38</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/38</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/38/42</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/39</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/39/40</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/106</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/106/111</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/40</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/40/41</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/71</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/71/73</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/journal.namsifl.uz</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/journal.namsifl.uz/74</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/74</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/74/76</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/76</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/76/78</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/78</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/78/80</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/80</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/80/81</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/81</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/81/82</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/19</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/19/19</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/22</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/22/22</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/information/readers</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/information/authors</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/information/librarians</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/about/aboutThisPublishingSystem</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/xalqaro_konferensiya/index</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/xalqaro_konferensiya/issue/archive</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/xalqaro_konferensiya/about</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/xalqaro_konferensiya/about/submissions</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/xalqaro_konferensiya/about/editorialTeam</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/xalqaro_konferensiya/search</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/xalqaro_konferensiya/user/register</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/xalqaro_konferensiya/login</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/xalqaro_konferensiya/issue/view/16/27</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/xalqaro_konferensiya/information/readers</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/xalqaro_konferensiya/information/authors</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/xalqaro_konferensiya/information/librarians</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/xalqaro_konferensiya/about/aboutThisPublishingSystem</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/index/user/register?source=https%3A%2F%2Fjournal.namsifl.uz%2Findex.php%2Findex%2Fuser%2Fprofile%2Froles</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/issue/view/3</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/issue/view/11</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/issue/view/2</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/issue/view/7</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/issue/view/6</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/issue/view/5</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/issue/view/4</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/issue/view/9</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/issue/view/8</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/login?source=https%3A%2F%2Fjournal.namsifl.uz%2Findex.php%2Fzfm%2Fuser%2Fprofile%2Froles</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/login/lostPassword</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/user/register?source=</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/43</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/139</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/179</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/143</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/61</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/142</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/57</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/56</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/3?articlesBySimilarityPage=2</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/3?articlesBySimilarityPage=3</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/3?articlesBySimilarityPage=4</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/3?articlesBySimilarityPage=5</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/3?articlesBySimilarityPage=6</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/3?articlesBySimilarityPage=7</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/3?articlesBySimilarityPage=8</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/3?articlesBySimilarityPage=9</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/search/search?query=xshatish%20lingvomadaniyat%20badiiy%20matn%20tarjima%20madaniyatlararo%20tahlil</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/48</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/145</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/52</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/47</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/45</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/150</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/152</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/4?articlesBySimilarityPage=2</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/search/search?query=lirik%20qahramon%20romantic%20tasvir%20ishq%20timsoli%20tabiat%20tasviri%20osjiq%20qayg%20uli%20hikoya</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/103-107</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/109</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/134</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/173</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/88</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/132</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/172</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/6?articlesBySimilarityPage=2</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/6?articlesBySimilarityPage=3</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/6?articlesBySimilarityPage=4</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/6?articlesBySimilarityPage=5</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/6?articlesBySimilarityPage=6</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/6?articlesBySimilarityPage=7</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/6?articlesBySimilarityPage=8</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/6?articlesBySimilarityPage=9</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/search/search?query=metafora%20metonimiya%20zamonaviy%20ingliz%20tili%20stilistika%20kognitiv%20tilshunoslik%20obrazli%20ifoda%20muloqot</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/177</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/178</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/175</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/133</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/129</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/67</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/104</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/116</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/8?articlesBySimilarityPage=2</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/8?articlesBySimilarityPage=3</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/8?articlesBySimilarityPage=4</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/8?articlesBySimilarityPage=5</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/8?articlesBySimilarityPage=6</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/search/search?query=tabiiy%20tilini%20qayta%20ishlash%20nlp%20til%20qitish%20grammatika%20tekshiruvi%20interaktiv%20platformalar</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/137</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/176</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/65</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/160</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/101</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/98</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/184</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/131</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/9?articlesBySimilarityPage=2</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/9?articlesBySimilarityPage=3</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/9?articlesBySimilarityPage=4</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/search/search?query=grammatical%20minimum%20morphology%20education%20system%20communicative%20approach%20contextual%20teaching%20activity%20based%20method%20cultural%20competence%20morphological%20units%20metalinguistic%20awareness%20interactive%20tasks</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/170</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/85</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/153</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/128</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/68</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/62</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/69</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/114</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/130</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/10?articlesBySimilarityPage=2</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/10?articlesBySimilarityPage=3</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/10?articlesBySimilarityPage=4</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/search/search?query=george%20orwell%20literary%20techniques%20prose%20style%20character%20development%20atmospheric%20detail%20symbolic%20architecture%20irony%20language%20political%20commentary%20influence</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/119</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/155</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/46</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/11?articlesBySimilarityPage=2</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/11?articlesBySimilarityPage=3</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/11?articlesBySimilarityPage=4</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/11?articlesBySimilarityPage=5</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/11?articlesBySimilarityPage=6</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/11?articlesBySimilarityPage=7</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/11?articlesBySimilarityPage=8</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/11?articlesBySimilarityPage=9</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/search/search?query=korpus%20lingvistikasi%20lingvistik%20leksikografiya%20grammatika%20diskurs%20tahlil%20parallel%20korpuslar%20qiyosiy%20tilshunoslik</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/12?articlesBySimilarityPage=2</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/12?articlesBySimilarityPage=3</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/12?articlesBySimilarityPage=4</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/search/search?query=lingvomadaniy%20birliklar%20tarjima%20badiiy%20matn%20ifoda%20ekvivalent%20izoh</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/58</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/44</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/60</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/121</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/149</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/search/search?query=stilistika%20stilistik%20qurilma%20takrorlash%20formal%20strukturali</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/151</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/171</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/54</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/55</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/148</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/117</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/126</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/77</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/15?articlesBySimilarityPage=2</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/search/search?query=portrait%20image%20character%20student%20psychological%20philosophical%20typological%20positive%20negative%20protagonists</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/118</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/180</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/140</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/135</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/59</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/16?articlesBySimilarityPage=2</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/16?articlesBySimilarityPage=3</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/search/search?query=nutq%20madaniyati%20so%CA%BBz%20san%CA%BCati%20mahmud%20koshg%CA%BBariyning%20devonu%20lug%CA%BBotit%20turk%20asari%20o%CA%BBrinboyev%20soliyevning%20notiqlik%20mahorati%20qo%CA%BBng%CA%BBurov%20begmatov%20tojiyevning%20uslubiyati%20asoslari</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/144</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/111</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/79</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/154</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/17?articlesBySimilarityPage=2</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/17?articlesBySimilarityPage=3</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/17?articlesBySimilarityPage=4</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/17?articlesBySimilarityPage=5</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/17?articlesBySimilarityPage=6</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/17?articlesBySimilarityPage=7</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/17?articlesBySimilarityPage=8</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/17?articlesBySimilarityPage=9</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/search/search?query=ona%20obrazi%20ertak%20lingvomadaniyat%20madaniy%20konnotatsiya%20qiyosiy%20tahlil%20ayol%20obrazlari%20milliy%20tafakkur</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/64</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/182</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/search/search?query=obraz%20hikoya%20detal%20dialog%20personaj</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/83</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/51</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/147</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/20?articlesBySimilarityPage=2</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/20?articlesBySimilarityPage=3</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/20?articlesBySimilarityPage=4</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/20?articlesBySimilarityPage=5</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/search/search?query=arxaizm%20semantik%20morfologik%20ntaktik%20fonetik%20tarixiy%20asar%20leksik%20birlik%20madaniyat%20sinonim%20tarjima%20strategiyasi%20tarixiylik</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/165</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/87</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/113</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/21?articlesBySimilarityPage=2</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/21?articlesBySimilarityPage=3</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/21?articlesBySimilarityPage=4</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/search/search?query=ishchi%20sinf%20realizm%20jahldor%20yoshlar%20ijtimoiy%20adabiyot%20britaniya%20adabiyoti%20asr%20jamiyat%20tanqidi</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/89</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/63</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/185</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/7?articlesBySimilarityPage=2</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/search/search?query=literary%20work%20information%20history%20culture%20national%20color</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/23?articlesBySimilarityPage=2</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/23?articlesBySimilarityPage=3</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/23?articlesBySimilarityPage=4</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/search/search?query=lakunalar%20tilshunoslik%20madaniyatshunoslik%20tarjima%20lingvistik%20motivatsiyalangan%20motivatsiyalanmagan</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/95</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/24?articlesBySimilarityPage=2</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/24?articlesBySimilarityPage=3</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/search/search?query=riddle%20linguoculture%20oral%20folklore%20comparative%20analysis%20national%20identity%20cultural%20symbolism</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/156</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/25?articlesBySimilarityPage=2</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/search/search?query=roald%20dahl%20realizm%20fantaziya%20uyg%20unligi%20fantastik%20elementlar%20realistik%20axloqiy%20saboqlar%20bolalik%20kurashlari%20adolatsizlik</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/125</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/26?articlesBySimilarityPage=2</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/26?articlesBySimilarityPage=3</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/search/search?query=tarjima%20tarixi%20tarzabon%20jarayoni%20mohiyati%20san%20ati</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/115</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/70</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/181</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/109-111?articlesBySimilarityPage=2</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/search/search?query=ishchi%20roman%20realizmi%20jahldor%20yoshlar%20uyuk%20britaniya%20adabiyoti%20asr%20ijzimoiy%20tanqid%20sinfiy%20ziddiyat</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/28?articlesBySimilarityPage=2</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/28?articlesBySimilarityPage=3</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/28?articlesBySimilarityPage=4</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/28?articlesBySimilarityPage=5</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/28?articlesBySimilarityPage=6</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/28?articlesBySimilarityPage=7</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/28?articlesBySimilarityPage=8</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/28?articlesBySimilarityPage=9</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/28?articlesBySimilarityPage=10</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/28?articlesBySimilarityPage=11</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/search/search?query=madaniyatlararo%20muloqot%20lingvodidaktika%20tahlil%20metodika%20tarjimashunoslik%20chet%20til%20mamlakatshunoslik%20lingvomamlakatshunoslik%20lingvokulturologiya</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/124</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/53</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/103</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/163</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/169</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/168</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/189</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/94</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/31?articlesBySimilarityPage=2</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/167</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/42</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/174</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/32?articlesBySimilarityPage=2</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/32?articlesBySimilarityPage=3</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/search/search?query=grammatika%20tilni%20rgatish%20zlar%20nutq%20faoliyati%20talaffuz%20mashqlar%20metod</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/186</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/33?articlesBySimilarityPage=2</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/33?articlesBySimilarityPage=3</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/search/search?query=lingvokreativ%20faoliyat%20fikrlash%20giperbola%20lingvistik%20birlik%20nasriy%20shaxs%20makrofilologik%20mikrofilologik</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/34?articlesBySimilarityPage=2</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/34?articlesBySimilarityPage=3</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/34?articlesBySimilarityPage=4</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/34?articlesBySimilarityPage=5</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/34?articlesBySimilarityPage=6</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/search/search?query=kognitiv%20lingvistika%20freym%20skript%20sxema%20kogniotip%20bilimni%20taqdim%20etish%20tuzilmalari%20mental%20model%20psixologik%20asoslanish%20madaniy%20kontekst%20tafakkur%20jarayoni</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/93</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/35?articlesBySimilarityPage=2</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/35?articlesBySimilarityPage=3</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/35?articlesBySimilarityPage=4</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/search/search?query=talabalar%20ekologik%20lim%20tarbiyani%20shakllantirish%20tabiat%20muxofazasi%20madaniyatni%20tarbiyalash%20xavfsizlik</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/161</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/36?articlesBySimilarityPage=2</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/36?articlesBySimilarityPage=3</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/36?articlesBySimilarityPage=4</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/36?articlesBySimilarityPage=5</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/search/search?query=english%20learning%20educational%20technology%20language%20mobile%20apps%20gamification%20virtual%20classrooms%20online%20education</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/136</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/37?articlesBySimilarityPage=2</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/37?articlesBySimilarityPage=3</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/37?articlesBySimilarityPage=4</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/search/search?query=elt%20blended%20learning%20task%20based%20education%20communicative%20teaching%20teacher%20training%20call</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/38?articlesBySimilarityPage=2</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/38?articlesBySimilarityPage=3</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/38?articlesBySimilarityPage=4</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/97</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/100</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/39?articlesBySimilarityPage=2</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/39?articlesBySimilarityPage=3</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/39?articlesBySimilarityPage=4</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/39?articlesBySimilarityPage=5</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/39?articlesBySimilarityPage=6</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/search/search?query=maxsus%20maqsadlarga%20naltirilgan%20ingliz%20tili%20kasbiy%20lingvodidaktika%20fanlararo%20integratsiya%20metod%20mutaxassislik</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/105</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/183</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/106?articlesBySimilarityPage=2</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/106?articlesBySimilarityPage=3</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/search/search?query=elektron%20doska%20proyektr%20investitsiya%20yil%20talabasi%20musobaqasi%20shon%20sharaf%20doskasi</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/40?articlesBySimilarityPage=2</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/40?articlesBySimilarityPage=3</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/40?articlesBySimilarityPage=4</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/40?articlesBySimilarityPage=5</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/40?articlesBySimilarityPage=6</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/40?articlesBySimilarityPage=7</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/40?articlesBySimilarityPage=8</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/40?articlesBySimilarityPage=9</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/40?articlesBySimilarityPage=10</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/search/search?query=ingliz%20tili%20boshlang%20ich%20lim%20milliy%20qadriyatlar%20umummadaniy%20kompetensiya%20madaniyatlararo%20muloqot%20pedagogik%20metodika%20talaba%20madaniy%20integratsiya%20identifikatsiya%20til%20madaniyat</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/71?articlesBySimilarityPage=2</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/71?articlesBySimilarityPage=3</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/71?articlesBySimilarityPage=4</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/71?articlesBySimilarityPage=5</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/71?articlesBySimilarityPage=6</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/71?articlesBySimilarityPage=7</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/search/search?query=madaniyatlararo%20muloqot%20kompetensiya%20lingvistik%20sotsiolingvistik%20ijtimoiy%20madaniy%20yondashuv</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/journal.namsifl.uz?articlesBySimilarityPage=2</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/journal.namsifl.uz?articlesBySimilarityPage=3</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/journal.namsifl.uz?articlesBySimilarityPage=4</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/journal.namsifl.uz?articlesBySimilarityPage=5</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/search/search?query=texnik%20oliy%20lim%20muassasalari%20kasbiy%20kompetensiya%20leksik%20matn%20terminologik%20lug%20karta%20flesh%20vizual</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/74?articlesBySimilarityPage=2</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/74?articlesBySimilarityPage=3</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/search/search?query=critical%20thinking%20higher%20order%20skills%20meaningful%20discussions%20innovative%20varied%20ways%20debates%20real%20world%20contexts</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/99</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/162</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/90</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/76?articlesBySimilarityPage=2</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/76?articlesBySimilarityPage=3</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/76?articlesBySimilarityPage=4</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/76?articlesBySimilarityPage=5</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/76?articlesBySimilarityPage=6</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/76?articlesBySimilarityPage=7</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/76?articlesBySimilarityPage=8</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/76?articlesBySimilarityPage=9</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/76?articlesBySimilarityPage=10</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.namsifl.uz/index.php/zfm/search/search?query=mediakompetentlik%20boshlang%20ich%20sinf%20media%20savodxonlik%20axborot%20tahlil%20raqamli%20lim</loc>
+  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 
 
