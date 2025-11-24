@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://yangi.cspu.uz/sitemap.xml

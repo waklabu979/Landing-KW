@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://ptkami.com/about/sitemap.xml
