@@ -8,2138 +8,2503 @@
 
 
 <url>
-  <loc>https://journal.namsifl.uz/</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/index/index</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/kutubxona</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/index/user/register</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/tadbirlar</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/index/login</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/login</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/en</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/issue/view/1</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/ru</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/xalqaro_konferensiya</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/rektor-murojaati</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/xalqaro_konferensiya/issue/view/16</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/universitet-tarixi</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/index/about/aboutThisPublishingSystem</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/missiya-va-vizion</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/about/privacy</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/universitet-strategiyasi</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yangi.cspu.uz/universitet-nizomi</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yangi.cspu.uz/rahbariyat</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yangi.cspu.uz/fakultetlar-va-kafedralar</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yangi.cspu.uz/mamuriy-markazlar</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yangi.cspu.uz/ilmiy-markazlar</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yangi.cspu.uz/xodimlar</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yangi.cspu.uz/ilmiy-kengashlar</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yangi.cspu.uz/universitet-kengashi</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yangi.cspu.uz/virtual-tur/yangi-bino</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yangi.cspu.uz/virtual-tur/turizm</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yangi.cspu.uz/virtual-tur/it-matematika</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yangi.cspu.uz/virtual-tur/muzey</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yangi.cspu.uz/virtual-tur/psixologik-markaz</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yangi.cspu.uz/virtual-tur/rektorant</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yangi.cspu.uz/virtual-tur/geografiya-maydonchasi</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yangi.cspu.uz/virtual-tur/tasviriy</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yangi.cspu.uz/virtual-tur/yotoqhona</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yangi.cspu.uz/virtual-tur/bolalar-bogchasi</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yangi.cspu.uz/virtual-tur/it-school</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yangi.cspu.uz/virtual-tur/politex</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yangi.cspu.uz/bakalavriyat</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yangi.cspu.uz/magistratura</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yangi.cspu.uz/doktorantura</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yangi.cspu.uz/manaviy-va-marifiy-faoliyat</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yangi.cspu.uz/ilmiy-tadqiqot-faoliyati</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yangi.cspu.uz/moliyaviy-faoliyat</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yangi.cspu.uz/xalqaro-aloqalar</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yangi.cspu.uz/iqtidorli-talabalar</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yangi.cspu.uz/jamoaviy-klublar</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yangi.cspu.uz/talabalar-turar-joylari</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yangi.cspu.uz/talabalar-hayoti</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yangi.cspu.uz/talabalar-bolimlar-va-markazlari</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yangi.cspu.uz/bitiruvchilar</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yangi.cspu.uz/qabul-2025</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yangi.cspu.uz/oquv-dasturlari</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yangi.cspu.uz/kirish-imtihonlari</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yangi.cspu.uz/tolov-kontrakt-haqida</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yangi.cspu.uz/imtiyoz-va-moliyavoy-yordam</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yangi.cspu.uz/xalqaro-talabalar</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yangi.cspu.uz/yangiliklar</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yangi.cspu.uz/bolim-yangiliklari</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yangi.cspu.uz/yangiliklar/elonlar</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yangi.cspu.uz/maqolalar</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yangi.cspu.uz/do-stlik-va-birlik-ikki-mamlakatni-yaqinlashtirgan-kuch</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yangi.cspu.uz/yangi-davr-ostonasidagi-o-rta-osiyo-akademik-hamjamiyat-nazari</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yangi.cspu.uz/xalqaro-munosabatlar-yangi-marralar-yangi-rejalar-sari-yo-l</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yangi.cspu.uz/talabalar-uchun-dolzarb-mavzuda-davra-suhbati-o-tkazildi</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yangi.cspu.uz/inklyuziv-talim-dialog-tahlil-tajriba</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yangi.cspu.uz/tasviriy-sanat-talimi-transformatsiyasi-suniy-intellekt-integratsiyasi-xalqaro-tajriba-va-ilmiy-yondashuv</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yangi.cspu.uz/teachai-hub-dasturi</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yangi.cspu.uz/yangi-ozbekistonda-talim-tizimi-yangi-avlod-yangi-imkoniyatlar</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yangi.cspu.uz/iqtidorli-talabalar-2</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yangi.cspu.uz/murojaatlar</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yangi.cspu.uz/millat-va-manaviyat-eshtirishi</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/xalqaro_konferensiya/about/privacy</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/boshlangich-sinf-oquvchilarining-intellektual-qobilyatlarini-klasterli-yondashuv-asosida-rivojlantirish</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/index/login?source=https%3A%2F%2Fjournal.namsifl.uz%2Findex.php%2Findex%2Fuser%2Fprofile%2Froles</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/bolajak-ingliz-tili-oqituvchilarini-klaster-talim-sharoitida-diskurs-ogzaki-nutq-kompetensiyasini-rivojlantirish-texnologiyalarini-takomillashtirish-metodikasi</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/index/login/lostPassword</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/effective-ways-to-organize-physical-education-and-mass-sports-activities-among-female-students</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/index/user/register?source=</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/raqamli-iz-oqitishda-tahlil-va-baholashning-yangi-davri</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/index</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/bolajak-mutaxassislarda-sanogen-tafakkur-va-refleksiv-kompetensiyani-shakllantirishning-metodologik-asoslari</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/issue/archive</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/kimyo-fanida-eritmaga-oid-dars-mashg-ulotlarining-tatbiqi</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/about</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/turk-runologiyasining-tarixiy-aspektlari-va-jarayonlar</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/about/submissions</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/badiiy-estetik-tahlil-va-talqin-uygunligining-funksional-asoslari</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/about/editorialTeam</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/ozbek-tili-ish-yuritish-terminlari-tizimi</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/about/contact</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/talim-samaradorligini-oshirishda-ustoz-va-shogirt-hamkorligi</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/user/register</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/strategia-cifrovoj-uzbekistan-2030</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/search</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/talim-transformatsiya</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/login</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/media-makonda-suniy-intellekt-yangi-tarix-va-yangi-dunyoqarash</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/issue/view/1/journal.namsifl.uz</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/filologik-talim</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/3</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/pedagogika-tasviriysanat</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/3/3</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/jismoniy-tarbiya-tizimini-rivojlantirishning-dolzarb-muammolari-va-istiqboldagi-yechimlari</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/4</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/toshkent-vohasi-tarixiga-doir-zamonaviy-tadqiqotlar</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/4/4</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/parolni-unutdim</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/6</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/en/aute-quidem-ut-volup</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/6/6</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/murojaatlar?staff_id=5</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/8</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/muxamedov-gafurdjan-israilovich</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/8/7</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/murojaatlar?staff_id=6</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/9</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/axmadjanov-doniyor-baxtiyor-ogli</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/9/8</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/murojaatlar?staff_id=8</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/10</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/eshchanov-bahodir-xudayberganovich</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/10/9</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/murojaatlar?staff_id=7</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/11</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/qorayev-samariddin-barakaevich</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/11/10</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/murojaatlar?staff_id=675</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/12</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/ortikov-oybek-abdullayevich</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/12/12</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/aniq-fanlar-fakulteti</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/13</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/algebra-va-matematik-tahlil-kafedrasi</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/13/13</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/axborot-texnologiyalari-va-suniy-intellekt</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/14</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/fizika-kafedrasi</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/14/14</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/matematika-oqitish-metodikasi-va-geometriya-kafedrasi</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/15</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/tabiiy-fanlar-fakulteti</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/15/15</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/biologiya-kafedrasi</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/16</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/genetika-va-evolyutsion-biologiya-kafedrasi</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/16/16</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/geografiya-kafedrasi</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/17</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/kimyo-kafedrasi</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/17/17</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/gumanitar-fanlar-fakulteti</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/18</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/interfaculty-department-of-social-sciences</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/18/18</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/interfaculty-department-of-russian-language</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/20</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/milliy-goya-manaviyat-asoslari-va-huquq-talimi-kafedrasi</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/20/20</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/department-of-uzbek-literary-studies</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/21</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/ozbek-tilshunosligi-kafedrasi</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/21/21</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/rus-adabiyotshunosligi-kafedrasi</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/7</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/ozga-tilli-guruhlarda-rus-tili-va-adabiyoti-talimi-metodikasi</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/7/23</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/pedagogika-fakulteti</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/23</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/department-of-special-pedagogy</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/23/24</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/menejment-kafedrasi</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/24</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/pedagogika-kafedrasi</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/24/25</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/department-of-psychology</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/25</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/department-of-general-pedagogy</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/25/26</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/turizm-fakulteti</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/26</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/fakultetlararo-chet-tillar-kafedrasi</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/26/27</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/ingliz-tili-nazariyasi-va-amaliyoti-kafedrasi</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/109-111</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/lingvistika-va-ingliz-tilini-oqitish-metodikasi</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/109-111/28</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/nemis-tili-kafedrasi</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/28</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/turizm-kafedrasi</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/28/29</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/sanatshunoslik-fakulteti</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/29</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/tasviriy-sanat-va-dizayn-kafedrasi</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/29/30</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/tasviriy-sanat-va-muhandislik-grafikasi</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/30</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/musiqa-kafedrasi</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/30/35</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/jismoniy-madaniyat-fakulteti</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/31</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/jismoniy-madaniyat-nazariyasi</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/31/33</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/jismoniy-madaniyat-va-sport</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/32</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/sport-oyinlari-va-uni-oqitish-metodikasi</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/32/31</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/texnologik-talim-kafedrasi</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/33</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/boshlangich-talim-fakulteti</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/33/34</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/maktabgacha-va-boshlangich-talimda-matematika-va-tabiiy-fanlar</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/34</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/maktabgacha-talim-nazariyasi-va-amaliyoti</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/34/36</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/maktabgacha-va-boshlangich-talim-metodikasi</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/35</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/talim-sifati-nazorati-bolimi</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/35/37</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/registrator-ofisi</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/36</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/xodimlar-bolimi</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/36/39</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/oquv-uslubiy-boshqarma</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/37</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/devonxona-va-arxiv-bolimi</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/37/38</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/jismoniy-va-yuridik-shaxslarning-murojaatlari-bilan-ishlash-nazorat-va-monitoring-bolimi</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/38</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/matbuot-xizmati</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/38/42</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/axborot-resurs-markazi</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/39</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/raqamli-talim-texnologiyalari-markazi</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/39/40</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/buxgalteriya</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/106</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/reja-moliya</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/106/111</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/yoshlar-bilan-ishlash-manaviyat-va-marifat-bolimi</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/40</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/iqtidorli-talabalarning-ilmiy-tadqiqot-faoliyatini-tashkil-etish-bolimi</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/40/41</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/ozbekiston-yoshlar-ittfoqi-boshlangich-tashkiloti</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/71</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/xalqaro-hamkorlik-bolimi</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/71/73</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/texnik-foydalanish-va-xjalik-blimi</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/journal.namsifl.uz</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/ilmiy-tadqiqot-innovatsiyalar-va-ilmiy-pedagogik-kadrlar-tayyorlash-bolimi</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/journal.namsifl.uz/74</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/korrupsiyaga-qarshi-kurashish-komplaens-nazorat-tizimini-boshqarish-bolimi</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/74</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/qatagon-qurbonlari-xotirasi-muzeyi</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/74/76</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/qoshma-talim-dasturlarini-muvofiqlashtirish-bolimi</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/76</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/ilmiy-innovatsion-ishlanmalarni-tijoratlashtirish-bolimi</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/76/78</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/yoshlar-akademiyasi</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/78</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/talabalar-amaliyoti-bolimi</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/78/80</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/xalqaro-oqituvchi-tayyorlash-va-qoshimcha-mutaxassislik-berish-bolimi</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/80</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/lazer-texnologiyalari-markazi</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/80/81</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/matematika-ilmiy-tadqiqot-laboratoriyasi</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/81</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/it-park-ilmiy-tadqiqot-laboratoriyasi</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/81/82</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/molekulyar-biologiya-va-bioinformatika-ilmiy-tadqiqot-laboratoriyasi</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/19</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/genetika-va-evolyutsion-biologiya-osimliklar-genetikasi-va-biotexnologiyasi-ilmiy-tadqiqot-laboratoriyasi</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/19/19</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/profi-arena-ilmiy-tadqiqot-markazi</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/22</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/karimjanov-alijan</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/22/22</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/polatova-tatyana-djalalitdinovna</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/information/readers</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/normatov-otabek-maxamatjonovich</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/information/authors</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/abdalova-sayyara-rustamovna</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/information/librarians</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/abdamitova-kamola-komildjonovna</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/about/aboutThisPublishingSystem</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/pedagogika-fanlari-ilmiy-kengashi</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/xalqaro_konferensiya/index</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/pedagogika-fanlari-dsc-ilmiy-kengashi</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/xalqaro_konferensiya/issue/archive</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/biologiya-fanlari-ilmiy-kengashi</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/xalqaro_konferensiya/about</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/fizika-matematika-fanlari-ilmiy-kengashi</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/xalqaro_konferensiya/about/submissions</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/kimyo-fanlari-ilmiy-kengashi</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/xalqaro_konferensiya/about/editorialTeam</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/akademik-litsey</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/xalqaro_konferensiya/search</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/talabalar-uchun-manaviy-marifiy-tadbirlar</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/xalqaro_konferensiya/user/register</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/madaniy-merosni-targib-qilish</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/xalqaro_konferensiya/login</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/volontyorlik-va-ijtimoiy-tashabbuslar</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/xalqaro_konferensiya/issue/view/16/27</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/doktorantlar-maktabi</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/xalqaro_konferensiya/information/readers</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/byudjet-malumotlari</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/xalqaro_konferensiya/information/authors</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/moliya-rejalari-hisobotlar</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/xalqaro_konferensiya/information/librarians</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/tolov-kontraktlar</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/xalqaro_konferensiya/about/aboutThisPublishingSystem</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/grantlar-va-homiylik</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/index/user/register?source=https%3A%2F%2Fjournal.namsifl.uz%2Findex.php%2Findex%2Fuser%2Fprofile%2Froles</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
-  <priority>0.51</priority>
+  <loc>https://yangi.cspu.uz/moliyaviy-masalalar-aloqa</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/issue/view/3</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
-  <priority>0.51</priority>
+  <loc>https://yangi.cspu.uz/universitetimizning-xorijiy-hamkorlari</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/issue/view/11</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
-  <priority>0.51</priority>
+  <loc>https://yangi.cspu.uz/xorijiy-grantlar</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/issue/view/2</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
-  <priority>0.51</priority>
+  <loc>https://yangi.cspu.uz/xorijiy-talabalar</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/issue/view/7</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
-  <priority>0.51</priority>
+  <loc>https://yangi.cspu.uz/iqtidorli-talabalar-3</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/issue/view/6</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
-  <priority>0.51</priority>
+  <loc>https://yangi.cspu.uz/iqtidorli-talabalar-4</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/issue/view/5</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
-  <priority>0.51</priority>
+  <loc>https://yangi.cspu.uz/talabalar-almashinuv-dasturi</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/issue/view/4</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
-  <priority>0.51</priority>
+  <loc>https://yangi.cspu.uz/xalqaro-qabul</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/issue/view/9</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
-  <priority>0.51</priority>
+  <loc>https://yangi.cspu.uz/qanday-murojaat-qilish-kerak-bosqichma-bosqich-qollanma</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/issue/view/8</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
-  <priority>0.51</priority>
+  <loc>https://yangi.cspu.uz/tolovlar-stipendiyalar-va-talabalar-hayoti</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/login?source=https%3A%2F%2Fjournal.namsifl.uz%2Findex.php%2Fzfm%2Fuser%2Fprofile%2Froles</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
-  <priority>0.51</priority>
+  <loc>https://yangi.cspu.uz/xalqaro-talabalar-uchun-ariza-shakli</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/login/lostPassword</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
-  <priority>0.51</priority>
+  <loc>https://yangi.cspu.uz/talabalar-shaharchasidagi-iqtisodiy-mexanizm-yangicha-yondashuvlar-o-zgarishlar-va-islohotlar</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/user/register?source=</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
-  <priority>0.51</priority>
+  <loc>https://yangi.cspu.uz/raqamlashgan-jamiyat-sari-respublika-ilmiy-amaliy-konferensiyasi-yakunlari</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/43</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
-  <priority>0.51</priority>
+  <loc>https://yangi.cspu.uz/ta-lim-ziyosi-gazetasining-10-soni-nashrdan-chiqdi</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/139</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
-  <priority>0.51</priority>
+  <loc>https://yangi.cspu.uz/yangilanayotgan-o-zbekistonda-kimyo-ta-limi-qanday-rivojlanmoqda</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/179</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
-  <priority>0.51</priority>
+  <loc>https://yangi.cspu.uz/ma-rifat-nashrida-rahmatilla-musurmonovning-pedagogik-faoliyatiga-bag-ishlangan-maqola-chop-etildi</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/143</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
-  <priority>0.51</priority>
+  <loc>https://yangi.cspu.uz/kafedra-maktab-hamkorlik-dasturi-belgilab-olindi</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/61</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
-  <priority>0.51</priority>
+  <loc>https://yangi.cspu.uz/ranglar-jilosida-oltin-kuz-ijodiy-ishlar-tanlovi-g-oliblari-taqdirlandi</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/142</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
-  <priority>0.51</priority>
+  <loc>https://yangi.cspu.uz/yangiliklar?page=4</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/57</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
-  <priority>0.51</priority>
+  <loc>https://yangi.cspu.uz/yangiliklar?page=5</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/56</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
-  <priority>0.51</priority>
+  <loc>https://yangi.cspu.uz/yangiliklar?page=6</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/3?articlesBySimilarityPage=2</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
-  <priority>0.51</priority>
+  <loc>https://yangi.cspu.uz/yangiliklar?page=7</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/3?articlesBySimilarityPage=3</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
-  <priority>0.51</priority>
+  <loc>https://yangi.cspu.uz/yangiliklar?page=8</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/3?articlesBySimilarityPage=4</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
-  <priority>0.51</priority>
+  <loc>https://yangi.cspu.uz/yangiliklar?page=9</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/3?articlesBySimilarityPage=5</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
-  <priority>0.51</priority>
+  <loc>https://yangi.cspu.uz/yangiliklar?page=10</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/3?articlesBySimilarityPage=6</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
-  <priority>0.51</priority>
+  <loc>https://yangi.cspu.uz/yangiliklar?page=11</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/3?articlesBySimilarityPage=7</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
-  <priority>0.51</priority>
+  <loc>https://yangi.cspu.uz/language/uz?redirect_to=https%3A%2F%2Fyangi.cspu.uz%2Fuz%2Fbolim-yangiliklari</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/3?articlesBySimilarityPage=8</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
-  <priority>0.51</priority>
+  <loc>https://yangi.cspu.uz/language/en?redirect_to=https%3A%2F%2Fyangi.cspu.uz%2Fen%2Fbolim-yangiliklari</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/3?articlesBySimilarityPage=9</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
-  <priority>0.51</priority>
+  <loc>https://yangi.cspu.uz/language/ru?redirect_to=https%3A%2F%2Fyangi.cspu.uz%2Fru%2Fbolim-yangiliklari</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/search/search?query=xshatish%20lingvomadaniyat%20badiiy%20matn%20tarjima%20madaniyatlararo%20tahlil</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
-  <priority>0.51</priority>
+  <loc>https://yangi.cspu.uz/ilmiy-tadqiqot-innovatsiyalar-va-ilmiy-pedagogik-kadrlar-tayyorlash-bolimi?tab=yangiliklar</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/48</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
-  <priority>0.51</priority>
+  <loc>https://yangi.cspu.uz/xalqaro-oqituvchi-tayyorlash-va-qoshimcha-mutaxassislik-berish-bolimi?tab=bolim-yangiliklari</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/145</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
-  <priority>0.51</priority>
+  <loc>https://yangi.cspu.uz/language/uz?redirect_to=yangiliklar%2Felonlar</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/52</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
-  <priority>0.51</priority>
+  <loc>https://yangi.cspu.uz/language/en?redirect_to=news%2Fannouncements</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/47</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
-  <priority>0.51</priority>
+  <loc>https://yangi.cspu.uz/language/ru?redirect_to=novosti%2Fobieiavleniia</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/45</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
-  <priority>0.51</priority>
+  <loc>https://yangi.cspu.uz/otkti-ga-kirish-imtihonlari-jadvali</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/150</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
-  <priority>0.51</priority>
+  <loc>https://yangi.cspu.uz/ilhom-mukofoti-respublika-tanlovining-2025-yilgi-sovrindorlari-tantanali-taqdirlandi</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/152</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
-  <priority>0.51</priority>
+  <loc>https://yangi.cspu.uz/yangiliklar/virtual-tur/yangi-bino</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/4?articlesBySimilarityPage=2</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
-  <priority>0.51</priority>
+  <loc>https://yangi.cspu.uz/yangiliklar/xalqaro-talabalar</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/search/search?query=lirik%20qahramon%20romantic%20tasvir%20ishq%20timsoli%20tabiat%20tasviri%20osjiq%20qayg%20uli%20hikoya</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
-  <priority>0.51</priority>
+  <loc>https://yangi.cspu.uz/yangiliklar/bakalavriyat</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/103-107</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
-  <priority>0.51</priority>
+  <loc>https://yangi.cspu.uz/yangiliklar/fakultetlar-va-kafedralar</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/109</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
-  <priority>0.51</priority>
+  <loc>https://yangi.cspu.uz/yangiliklar/iqtidorli-talabalar-2</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/134</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
-  <priority>0.51</priority>
+  <loc>https://yangi.cspu.uz/yangiliklar/murojaatlar</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/173</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
-  <priority>0.51</priority>
+  <loc>https://yangi.cspu.uz/language/uz?redirect_to=https%3A%2F%2Fyangi.cspu.uz%2Fuz%2Fmaqolalar</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/88</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
-  <priority>0.51</priority>
+  <loc>https://yangi.cspu.uz/language/en?redirect_to=https%3A%2F%2Fyangi.cspu.uz%2Fen%2Fposts</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/132</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
-  <priority>0.51</priority>
+  <loc>https://yangi.cspu.uz/language/ru?redirect_to=https%3A%2F%2Fyangi.cspu.uz%2Fru%2Fstatyi</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/172</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
-  <priority>0.51</priority>
+  <loc>https://yangi.cspu.uz/maqolalar/sharh-maqolalar</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/6?articlesBySimilarityPage=2</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
-  <priority>0.51</priority>
+  <loc>https://yangi.cspu.uz/maqolalar/maqolalar</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/6?articlesBySimilarityPage=3</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
-  <priority>0.51</priority>
+  <loc>https://yangi.cspu.uz/pedagogik-ijod-bu-ham-asli-istedod</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/6?articlesBySimilarityPage=4</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
-  <priority>0.51</priority>
+  <loc>https://yangi.cspu.uz/avraam-linkoln-tinchlik-izlagan-dafn-marosimi-tarixi</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/6?articlesBySimilarityPage=5</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
-  <priority>0.51</priority>
+  <loc>https://yangi.cspu.uz/samarqand-yunesko-sammiti-ozbekiston-madaniy-diplomatiyasining-yangi-bosqichi</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/6?articlesBySimilarityPage=6</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
-  <priority>0.51</priority>
+  <loc>https://yangi.cspu.uz/ilgor-fikrlovchi-yoshlar-kelajagimiz-poydevoridir</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/6?articlesBySimilarityPage=7</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
-  <priority>0.51</priority>
+  <loc>https://yangi.cspu.uz/ijodiy-tafakkur-va-shaxs-salohiyati</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/6?articlesBySimilarityPage=8</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
-  <priority>0.51</priority>
+  <loc>https://yangi.cspu.uz/cambridge-1</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/6?articlesBySimilarityPage=9</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
-  <priority>0.51</priority>
+  <loc>https://yangi.cspu.uz/tasviriy-sanat-talimida-kelajak-oqituvchisining-kasbiy-kompetensiyalari</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/search/search?query=metafora%20metonimiya%20zamonaviy%20ingliz%20tili%20stilistika%20kognitiv%20tilshunoslik%20obrazli%20ifoda%20muloqot</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
-  <priority>0.51</priority>
+  <loc>https://yangi.cspu.uz/chdpuning-germaniyaning-oliygoh-va-til-institutlari-bilan-hamkorlik-aloqalari-va-istiqbollari</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/177</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
-  <priority>0.51</priority>
+  <loc>https://yangi.cspu.uz/maqolalar?page=2</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/178</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
-  <priority>0.51</priority>
+  <loc>https://yangi.cspu.uz/maqolalar?page=3</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/175</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
-  <priority>0.51</priority>
+  <loc>https://yangi.cspu.uz/language/uz?redirect_to=https%3A%2F%2Fyangi.cspu.uz%2Fuz%2Fdo-stlik-va-birlik-ikki-mamlakatni-yaqinlashtirgan-kuch</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/133</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
-  <priority>0.51</priority>
+  <loc>https://yangi.cspu.uz/language/en?redirect_to=https%3A%2F%2Fyangi.cspu.uz%2Fen%2Fdo-stlik-va-birlik-ikki-mamlakatni-yaqinlashtirgan-kuch</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/129</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
-  <priority>0.51</priority>
+  <loc>https://yangi.cspu.uz/language/ru?redirect_to=https%3A%2F%2Fyangi.cspu.uz%2Fru%2Fdo-stlik-va-birlik-ikki-mamlakatni-yaqinlashtirgan-kuch</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/67</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
-  <priority>0.51</priority>
+  <loc>https://yangi.cspu.uz/yangiliklar/publististik-maqolalar</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/104</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
-  <priority>0.51</priority>
+  <loc>https://yangi.cspu.uz/storage/news_attachments/m9k7NHhqhskgZ4CjYwudrcWXTd0jrUp02sfFvYmy.pdf</loc>
+  <lastmod>2025-11-24T05:52:48+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/116</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
-  <priority>0.51</priority>
+  <loc>https://yangi.cspu.uz/universitet-yangiliklari</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/8?articlesBySimilarityPage=2</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
-  <priority>0.51</priority>
+  <loc>https://yangi.cspu.uz/elonlar</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/8?articlesBySimilarityPage=3</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
-  <priority>0.51</priority>
+  <loc>https://yangi.cspu.uz/tender-elonlari</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/8?articlesBySimilarityPage=4</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
-  <priority>0.51</priority>
+  <loc>https://yangi.cspu.uz/dolzarb-yangiliklar</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/8?articlesBySimilarityPage=5</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
-  <priority>0.51</priority>
+  <loc>https://yangi.cspu.uz/oquv-amaliy-tadbirlar</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/8?articlesBySimilarityPage=6</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
-  <priority>0.51</priority>
+  <loc>https://yangi.cspu.uz/yangiliklar/yoshlar-ittifoqi</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/search/search?query=tabiiy%20tilini%20qayta%20ishlash%20nlp%20til%20qitish%20grammatika%20tekshiruvi%20interaktiv%20platformalar</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
-  <priority>0.51</priority>
+  <loc>https://yangi.cspu.uz/rasmiy-tashriflar</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/137</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
-  <priority>0.51</priority>
+  <loc>https://yangi.cspu.uz/madaniy-va-marifiy-tadbirlar</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://yangi.cspu.uz/sport</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://yangi.cspu.uz/talabalar-uchun</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://yangi.cspu.uz/davra-suhbatlari</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://yangi.cspu.uz/seminarlar</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://yangi.cspu.uz/matbuot-konfrensiyalari</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://yangi.cspu.uz/yigilishlar</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://yangi.cspu.uz/news/youth-union</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://yangi.cspu.uz/en/news/youth-union</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://yangi.cspu.uz/en/news/meetings</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://yangi.cspu.uz/en/news/university-news</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://yangi.cspu.uz/en/posts/review-articles</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://yangi.cspu.uz/storage/news_attachments/7iGC8wxumON4oTs9bhgiZLhiguc6q01pGzWBgHt8.pdf</loc>
+  <lastmod>2025-11-21T10:39:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://yangi.cspu.uz/yangiliklar/universitet-yangiliklari</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://yangi.cspu.uz/yangiliklar/madaniy-va-marifiy-tadbirlar</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://yangi.cspu.uz/inklyuziv-talim-dialog-tahlil-tajriba/details</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://yangi.cspu.uz/muratov-xusan-xolmuratovich</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://yangi.cspu.uz/ozbek-kitob-grafikasi-miniatyuradan-zamonaviy-dizayngacha-bolgan-rangin-sayohat</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://yangi.cspu.uz/ibadullayev-doniyor-kuvondikovich</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://yangi.cspu.uz/xalmuxamedova-maxbuba-aslanovna</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/176</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/millat-va-manaviyat-1</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/65</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/nemis-tili-xorijiy-til-fanidan-boshqa-elektron-resurslar-1-part-audio</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/160</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/nemis-tili-xorijiy-til-fanidan-boshqa-elektron-resurslar-2-part-audio</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/101</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/tasviriy-san-at-ta-limida-innovatsion-klaster-yondashuvi</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/98</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/boshlangich-sinf-oquvchilarida-pedagogik-konfliktlarni-bartaraf-etish-1</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/184</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/hikmatov-hikmat-sultonovich-4</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/131</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/talim-shakllarini-klasterlash-asosida-bolajak-informatika-oqituvchisining-axborot-texnologik-tayyorgarligini-rivojlantirish-metodikasi</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/9?articlesBySimilarityPage=2</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/tasavvuf-adabietining-uzbek-matbuotida-eritilis-masalalari-1</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/9?articlesBySimilarityPage=3</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/primenenie-proektoi-texnologii-obuceniia-pri-prepodavanii-predmeta-prepodavanii-predmeta-ximii-lekarstvennqx-rastenii-teoriia-i-praktika</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/9?articlesBySimilarityPage=4</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/ozbek-pragramalingvistikasi-asoslari</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/search/search?query=grammatical%20minimum%20morphology%20education%20system%20communicative%20approach%20contextual%20teaching%20activity%20based%20method%20cultural%20competence%20morphological%20units%20metalinguistic%20awareness%20interactive%20tasks</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/boslangic-sinf-quvcilarini-ekologik-tarbiialas-texnologiialari-1</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/170</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/tasviriy-san-at-ta-limida-innovatsion-klaster-yondashuvi-1</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/85</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/bolajak-boshlangich-talim-oqituvchilarining-kasbiy-kompetentligini-rivojlantirish</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/153</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/global-ozgarishlar-davrida-yoshlar-manaviyati-va-uni-zararli-goyalardan-himoyalashning-dolzarblashuvi-1</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/128</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/gzaning-tizma-va-navlarini-iaratisda-genetik-statistik-uslublarini-qllas</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/68</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/talim-tizimida-raqamli-texnologiyalardan-foydalanish</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/62</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/maktab-oquvchilari-psixologiyasining-shakllanish-jarayoni-va-omillari</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/69</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/kurash-musobaqasiga-hakamlarni-tayyorlash-usul-va-shakllari</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/114</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/alohida-ehtiyojli-bolalarning-nutqini-rivojlantirishda-fonetik-ritmika-mashg-ulotlariga-tavsiyalar</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/130</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/cluster-approaches-of-cooperation-of-preschool-education-organization-with-family-school-and-neighborhood</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/10?articlesBySimilarityPage=2</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/talabalarni-ziddiyatli-munosabatlarda-ozining-xulq-atvor-madaniyatini-namoyon-qilishi</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/10?articlesBySimilarityPage=3</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/individual-yonaltirilgan-talim-modeli</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/10?articlesBySimilarityPage=4</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/ijtimoiy-informatikani-organish-jarayonida-talim-muammolari</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/search/search?query=george%20orwell%20literary%20techniques%20prose%20style%20character%20development%20atmospheric%20detail%20symbolic%20architecture%20irony%20language%20political%20commentary%20influence</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/astronomik-malumotlar-bazalaridan-foydalanib-laboratoriya-mashgulotlarini-tashkil-etish</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/119</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/bolajak-pedagoglarning-kasbiy-mahoratlarini-takomillashtirish-masalalari</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/155</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/raqamli-iqtisodiyotning-afzalliklari</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/46</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/postloq-sellyulozasini-aminlash-orqali-olingan-sorbentning-sorbsion-xususiyatlari-1</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/11?articlesBySimilarityPage=2</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/yoshlarni-manaviy-tarbiralashda-mafkuraviy-immunitetni-kuchaytirishning-dolzarb-masalalari</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/11?articlesBySimilarityPage=3</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/korreksion-pedagogik-ishlar-jarayonida-individual-va-differensial-yondashuvdan-foydalanishning-kompleks-imkoniyatlari</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/11?articlesBySimilarityPage=4</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/inkliuziv-taielimni-taskil-etisdagi-imkoniiatlar-va-mavzud</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/11?articlesBySimilarityPage=5</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/talabalarning-kasbiy-kommunikativ-konikmalarini-rivojlantirishda-clil-texnologiyasining-integrativ-imkoniyatlari</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/11?articlesBySimilarityPage=6</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/kartoska-x-virusini-azratis-va-biologik-tozalas-ucun-qulai-differenciator</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/11?articlesBySimilarityPage=7</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/korishda-nuqsoni-bolgan-oquvchilarda-nutq-kamchiliklarini-bartaraf-etish-texnologiyalaridan-foydalanish-ahamiyati</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/11?articlesBySimilarityPage=8</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/klfster-usulida-ijtimoiy-hamkorlik-mexanizimi</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/11?articlesBySimilarityPage=9</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/xalq-iinlari-uzluksiz-taielimda-zaraenida</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/search/search?query=korpus%20lingvistikasi%20lingvistik%20leksikografiya%20grammatika%20diskurs%20tahlil%20parallel%20korpuslar%20qiyosiy%20tilshunoslik</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/yangi-ozbekiston-sharoitida-zamonaviy-tarbiya-texnologiyalari-zaruriyati</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/12?articlesBySimilarityPage=2</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/kasb-hunar-maktablarida-oquvchilarning-kasbiy-tayyorgarligini-rivojlantirishning-zamonaviy-tendensiyalari</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/12?articlesBySimilarityPage=3</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/alisher-navoiy-olimlar-haqida</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/12?articlesBySimilarityPage=4</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/tipy-licnosti-po-urovniu-razvitiia-socialnogo-intellekta</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/search/search?query=lingvomadaniy%20birliklar%20tarjima%20badiiy%20matn%20ifoda%20ekvivalent%20izoh</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/boshlangich-sinf-oqituvchilari-manaviyatini-shakllantirishning-innovatsion-metodikasi</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/58</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/naucno-pedagogiceskie-osnovy-razvitiia-ekologiceskoi-kultury-v-usloviiax-globalizacii</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/44</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/tabiiy-fanlarni-oqitish-metodikasida-pedagogik-talimi-innovatsiyon-klasterining-nazariyasi-va-metodikasierining-erininglasterining-nazariyasi-va-amaliyot</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/60</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/tut-ipak-qurtining-ikki-noallel-z-letallar-biica-muvozanatlangan-va-pillaning-iuqori-sifa-krsatkiclariga-ega-genetik-tizimlarini-olis-usulini-isalb-c</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/121</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/bolajak-boshlangich-talim-oqituvchilarining-huquqiy-ekologik-kompetensiyalarini-interfaol-usullari-orqali-rivojlantirish</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/149</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/differensal-yondashuv-asosida-talabalarni-ijtimoiy-pedagogik-faoliyatga-tayyorash-metodikasini-takomillashtirish</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/search/search?query=stilistika%20stilistik%20qurilma%20takrorlash%20formal%20strukturali</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/maktab-oquvchilarda-oquv-tadqiqoychilik-konikmalarini-shakillantirishning-psixologik-pedagogik-shart-sharoitlari</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/151</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/normamatov-s-jadid-adiblarining-lugatshunoslik-faoliyati</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/171</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/sharq-va-garb</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/54</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/sfizim-va-tasavvuf</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/55</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/oliy-talimda-elektrodinamikani-axborot-texnologiyalaridan-foydalanib-oqitish-imkoniyatlari</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/148</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/badiiy-ta-limda-milliy-qadriyatlarga-asoslangan-zamonaviy-innovatsiyalar-tatbig-i</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/117</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/maienaviiatsunoslik-aerkaev</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/126</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/hozirgi-ozbek-nasri-muallif-va-ijodiy-tafakkur-konsepsiyasi</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/77</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/soya-osimligining-fiziologik-biokimyoviy-metodlar-orqali-fitopatogen-zamburuglarga-chidamliligini-aniqlash</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/15?articlesBySimilarityPage=2</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/tarixiy-adabiy-badiiy-manbalarda-vatan-madhi</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/search/search?query=portrait%20image%20character%20student%20psychological%20philosophical%20typological%20positive%20negative%20protagonists</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/virus-bilan-turli-darajada-kasallangan-olxori-osimligida-peroksidaza-fermenti-aktivligini-aniqlash</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/118</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/biologiya-yonalishi-talabalariga-analitik-kimyoni-oqitishda-oziga-xos-yondoshish</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/180</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/genetika-va-evolutsion-biologiya</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/140</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/organik-kimyoni-klaster-usulida-oqitish-metodikasini-takomillashtirish</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/135</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/ozbekistonda-belbogli-kurash-sportining-rivojlanishi</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/59</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/rincipy-podgotovki-budushhix-ucitelei-k-osushhestvleniiu-organizacionnoi-deiatelnosti</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/16?articlesBySimilarityPage=2</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/jismoniy-madaniyat-mutaxassislarini-tayyorlash-jarayonida-referat-va-mustaqil-talim-ishlarining-mazmuni-va-mohiyati</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/16?articlesBySimilarityPage=3</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/muzey-pedagogikasi-va-axborotlashtirish-texnologiyasi</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/search/search?query=nutq%20madaniyati%20so%CA%BBz%20san%CA%BCati%20mahmud%20koshg%CA%BBariyning%20devonu%20lug%CA%BBotit%20turk%20asari%20o%CA%BBrinboyev%20soliyevning%20notiqlik%20mahorati%20qo%CA%BBng%CA%BBurov%20begmatov%20tojiyevning%20uslubiyati%20asoslari</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/inklyuziv-talimda-uzviylik</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/144</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/boshlangich-talimda-steam-yondashuv-asosida-raqamli-texnologiyalar-orqali-bolajak-oqituvchilarning-ekologik-kompetentligini-takomillashtirish</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/111</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/tasniflash-usullaridan-foydalangan-holda-talabalarning-oquv-natijalarini-bashorat-qilish</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/79</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/pedagogik-va-tarbiyaviy-ishlar-metodikasi</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/154</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/kreativ-yondashuv-asosida-talabalarning-kompozitsion-qobiliyatlarini-rivojlantirish-metodikasini-takomillashtirish</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/17?articlesBySimilarityPage=2</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/bolajak-tasviriy-sanat-oqituvchilarning-badiiy-ijodiy-kompetentligini-rivojlantirish-metodikasi</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/17?articlesBySimilarityPage=3</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/sanat-oqituvchilarning-badiiy-ijodiy-kompetentligini-rivojlantirishmetodikasi</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/17?articlesBySimilarityPage=4</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/aralash-talim-sharoitida-talabalarni-tadqiqotchilik-faoliyatiga-tayyorlash-texnologiyalari</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/17?articlesBySimilarityPage=5</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/inklyuziv-talim-ishtirokchilarining-ish-faoliyatini-tashkil-etish</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/17?articlesBySimilarityPage=6</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/sharof-rashidov-ozbekistonning-maktab-maorifi-taraqqiyotida-tutgan-orni</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/17?articlesBySimilarityPage=7</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/suv-resurslaridan-qishloq-xojaligi-tarmoqlarida-foydalanish-geografiyasi</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/17?articlesBySimilarityPage=8</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/nikotin-va-izonikotin-kislotaning-aromatik-aminlar-bilan-reaksiyalarini-organish</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/17?articlesBySimilarityPage=9</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/muhandislik-grafikasi-fanlarini-oqitishda-grafik-savodxonlikni-rivojlantrish-metodikasi</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/search/search?query=ona%20obrazi%20ertak%20lingvomadaniyat%20madaniy%20konnotatsiya%20qiyosiy%20tahlil%20ayol%20obrazlari%20milliy%20tafakkur</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/pedagogik-klaster-yondashuvi-asosida-tarbiyaviy-ishlarni-takomillashtirish-mexanizimlari</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/64</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/axborotli-talimda-didaktik-oyinlar-asosida-aqliy-bilishni-rivojlantirish-metodikasini-takomillashtirish-1</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/182</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/o-rta-maktabda-ozon-mavzusini-o-qitishda-interfaol-metodlardan-foydalanib-o-qitish-orqali-rivojlantirish</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/search/search?query=obraz%20hikoya%20detal%20dialog%20personaj</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/10-sinf-kimyo-darsligidagi-stirollar-mavzusini-metodlar-orqali-tushuntirish</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/83</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/ozon-mavzusini-o-qitish-metodikasi</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/51</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/boshlangich-sinflarda-texnologik-jihozlar-tayyorlash-zaruriyati</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/147</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/maktabgacha-va-boshlangich-talimda-metodik-yangilanishlar-jarayoni</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/20?articlesBySimilarityPage=2</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/boshlangich-talim-metodikasini-zamonaviylashtirish-mexanizmlari</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/20?articlesBySimilarityPage=3</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/fizik-kattalikning-ekstremal-qiymatlarini-hosila-yordamida-aniqlashga-oid-masalalar-yechish</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/20?articlesBySimilarityPage=4</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/inson-fiziologik-jarayonlarining-matematik-modellashtirilishi-kasalliklarni-diagnostika-qilish-va-bashorat-etish-vositasi-sifatida-1</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/20?articlesBySimilarityPage=5</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/boshlangich-sinflarda-tabiiy-fanlarni-oqitishda-pedagogik-immunitetni-rivojlantirish-texnologiyasi</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/search/search?query=arxaizm%20semantik%20morfologik%20ntaktik%20fonetik%20tarixiy%20asar%20leksik%20birlik%20madaniyat%20sinonim%20tarjima%20strategiyasi%20tarixiylik</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/bolajak-tarix-oqituvchisining-manaviy-axloqiy-qiyofasi</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/165</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/sharq-mutafakkirlari-va-ularning-ijtimoiy-falsafiy-qarashlari-tarixi</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/87</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/ijodkor-pedagog-kelajak-talimining-poydevori</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/113</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/axborot-texnologiyalari-tasirida-sanat-tushunchasining-ozgarishi</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/21?articlesBySimilarityPage=2</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/pedagogik-jarayonda-yoshlarni-bagrikenglik-va-totuvlik-qadriyatlariga-yonaltirish</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/21?articlesBySimilarityPage=3</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/inson-fiziologik-jarayonlarining-matematik-modellashtirilishi-kasalliklarni-diagnostika-qilish-va-bashorat-etish-vositasi-sifatida</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/21?articlesBySimilarityPage=4</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/elektrolit-tarkibidagi-suv-va-ftorid-tarkibining-ozgarishi-tio2-nanotrubkalari-morfologiyasiga-tasiri</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/search/search?query=ishchi%20sinf%20realizm%20jahldor%20yoshlar%20ijtimoiy%20adabiyot%20britaniya%20adabiyoti%20asr%20jamiyat%20tanqidi</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/minerallarning-inson-hayotidagi-ahamiyati-mavzusini-o-qitishni-interfaol-metodlar-hamda-raqamli-texnologiyalardan-foydalanib-takomillashtirish</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/89</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/kimyo-darslarini-ko-rgazmali-va-steam-metodlar-orqali-o-qitishni-takomillashtirish-qog-ozni-qayta-ishlash-misolida</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/63</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/matematik-tafakkurni-rivojlantirishda-innovatsion-pedagogik-texnologiyalarning-orni</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/185</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/syntactic-assimilation-of-borrowed-words</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/7?articlesBySimilarityPage=2</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/turizm-strategiceski-vaznyj-sektor</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/search/search?query=literary%20work%20information%20history%20culture%20national%20color</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/zulayho-obrazining-manaviy-adabiy-evolyutsiyasini-organish</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/23?articlesBySimilarityPage=2</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/nizomiy-ganjaviy-va-alisher-navoiy-asarlarida-shohlar-vasfi-talqini-1</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/23?articlesBySimilarityPage=3</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/nizomiy-ganjaviy-va-alisher-navoiy-asarlarida-shohlar-vasfi-talqini</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/23?articlesBySimilarityPage=4</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/yangi-ozbek-adabiyoti</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/search/search?query=lakunalar%20tilshunoslik%20madaniyatshunoslik%20tarjima%20lingvistik%20motivatsiyalangan%20motivatsiyalanmagan</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/istiqlol</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/95</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/kichik-voleybol-sport-turi-elementlari-orqali-voleybolda-hujum-texnikasining-samaradorligini-oshirish</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/24?articlesBySimilarityPage=2</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/mg-va-zn-bilan-ligerlangan-kremniyda-piezorezistiv-effektnini-oshirish</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/24?articlesBySimilarityPage=3</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/si-mgzn-1</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/search/search?query=riddle%20linguoculture%20oral%20folklore%20comparative%20analysis%20national%20identity%20cultural%20symbolism</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/si-mgzn</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/156</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/kichiktirib-bolmas-vazifa</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/25?articlesBySimilarityPage=2</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/xatolaring-bilan-sevaman-1</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/search/search?query=roald%20dahl%20realizm%20fantaziya%20uyg%20unligi%20fantastik%20elementlar%20realistik%20axloqiy%20saboqlar%20bolalik%20kurashlari%20adolatsizlik</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/inson-taqdiri-1</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/125</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/generalning-bevasi</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/26?articlesBySimilarityPage=2</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/ertaklar</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/26?articlesBySimilarityPage=3</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/qiyiq-qizning-quyilishi</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/search/search?query=tarjima%20tarixi%20tarzabon%20jarayoni%20mohiyati%20san%20ati</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/korinmas-odam</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/115</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/tana-tili-manipulyatsiya-sanati</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/70</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/parma-ibodatxonasi</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/181</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/sohilsiz-dengiz</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/109-111?articlesBySimilarityPage=2</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/sen-on-yetti-yoshimsan</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/search/search?query=ishchi%20roman%20realizmi%20jahldor%20yoshlar%20uyuk%20britaniya%20adabiyoti%20asr%20ijzimoiy%20tanqid%20sinfiy%20ziddiyat</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/savdogarlar-ustozi-2</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/28?articlesBySimilarityPage=2</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/savdogarlar-ustozi</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/28?articlesBySimilarityPage=3</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/oybegim-mening</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/28?articlesBySimilarityPage=4</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/nasiba-niyatga-bogliq</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/28?articlesBySimilarityPage=5</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/manipulyatsiya-siri</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/28?articlesBySimilarityPage=6</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/korlik</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/28?articlesBySimilarityPage=7</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/ishq</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/28?articlesBySimilarityPage=8</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/kasbga-yo-naltirilgan-ingliz-tili-kelajak-kaliti-1</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/28?articlesBySimilarityPage=9</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/paganini-skripkasi</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/28?articlesBySimilarityPage=10</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/dialektizmhoi-lugavi-va-hususiathoi-xosai-onho</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/28?articlesBySimilarityPage=11</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/dard-etma-sabr-et</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/search/search?query=madaniyatlararo%20muloqot%20lingvodidaktika%20tahlil%20metodika%20tarjimashunoslik%20chet%20til%20mamlakatshunoslik%20lingvomamlakatshunoslik%20lingvokulturologiya</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/birinchi-muhabbatim</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/124</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/1984-1</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/53</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/ochlik</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/103</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/ramayana</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/163</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/tirik-murda</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/169</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/jek-london-1</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/168</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/jek-london</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/189</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/fil-va-laycha</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/94</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/qor-odam</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/31?articlesBySimilarityPage=2</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/gulliverning-sayohatlari</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/167</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/yangi-o-zbekistonda-ta-lim-tizimi-yangi-avlod-yangi-imkoniyatlar</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/42</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/hayot</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/174</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/eay</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/32?articlesBySimilarityPage=2</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/robinzon-kruzo</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/32?articlesBySimilarityPage=3</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/poetika-va-axloqi-kabir-kitobi</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/search/search?query=grammatika%20tilni%20rgatish%20zlar%20nutq%20faoliyati%20talaffuz%20mashqlar%20metod</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/anna-karenina</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/186</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/suv-parisi</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/33?articlesBySimilarityPage=2</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/qor-malikasi</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/33?articlesBySimilarityPage=3</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/ayrim-chiqindi-tabiiy-polimerlar-asosidagi-sorbentlarning-sorbsion-xossalari</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/search/search?query=lingvokreativ%20faoliyat%20fikrlash%20giperbola%20lingvistik%20birlik%20nasriy%20shaxs%20makrofilologik%20mikrofilologik</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/chizmachilik-fanining-turmush-tarzimizdagi-ahamiyati-va-orni</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/34?articlesBySimilarityPage=2</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/ilmiy-tadqiqot-metodologiyasi</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/34?articlesBySimilarityPage=3</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/pedagogika-mustahkam-bolgan-jamiyatda-har-bir-fan-har-bir-kasb-har-bir-islohot-oz-ornini-topadi</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/34?articlesBySimilarityPage=4</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/vozniknovenie-idej-dzadidskogo-dvizenia-v-turkestane-i-pervye-pedagogiceskie-reformy</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/34?articlesBySimilarityPage=5</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/xizr-korgan-yigit</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/34?articlesBySimilarityPage=6</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/bolajak-fizika-oqituvchisining-inklyuziv-kompetensiyasi-tarkibi-baholash-mezonlari-indikatorlari-va-darajalari</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/search/search?query=kognitiv%20lingvistika%20freym%20skript%20sxema%20kogniotip%20bilimni%20taqdim%20etish%20tuzilmalari%20mental%20model%20psixologik%20asoslanish%20madaniy%20kontekst%20tafakkur%20jarayoni</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/iblis-devori-1</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/93</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/saodat-asri-qissalari-4-kitob</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/35?articlesBySimilarityPage=2</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/saodat-asri-qissalari-3-kitob</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/35?articlesBySimilarityPage=3</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/saodat-asri-qissalari-2-kitob</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/35?articlesBySimilarityPage=4</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/saodat-asri-qissalari-1-kitob</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/search/search?query=talabalar%20ekologik%20lim%20tarbiyani%20shakllantirish%20tabiat%20muxofazasi%20madaniyatni%20tarbiyalash%20xavfsizlik</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/qoshchinor-chiroqlari</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/161</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/boronlarda-bordek-halovat-1</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/36?articlesBySimilarityPage=2</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/temur-tuzuklari</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/36?articlesBySimilarityPage=3</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/sogdiyona</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/36?articlesBySimilarityPage=4</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/sohibqiron-nabirasi</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/36?articlesBySimilarityPage=5</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/qasoskorning-oltin-boshi</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/search/search?query=english%20learning%20educational%20technology%20language%20mobile%20apps%20gamification%20virtual%20classrooms%20online%20education</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/onamning-yurti</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/136</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/mg-va-zn-bilan-ligerlangan-kremniyda-piezorezistiv-effektini-oshirish</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/37?articlesBySimilarityPage=2</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/suniy-intellekt-asosidagi-astronomik-simulyatsiyalar-va-virtual-laboratoriyalarni-yaratishning-ilmiy-metodik-asoslari</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/37?articlesBySimilarityPage=3</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/huquqiy-manaviy-qadriyatlar-asosida-yoshlar-ongida-axloq-odob-tamoyillarini-shakllantirishning-pedagogik-aspektlari</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/37?articlesBySimilarityPage=4</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/har-kimning-oz-falsafasi-bormi-yoxud-ilmiy-yaxlitlik-ruhiy-birlik-zarur</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/search/search?query=elt%20blended%20learning%20task%20based%20education%20communicative%20teaching%20teacher%20training%20call</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/manaviy-qadriyatlarning-yangi-0-zbekist0n-yoshlartda-huquqiy-madaniyatni-shakllanishi-va-rivojlanishidagi-0-rni</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/38?articlesBySimilarityPage=2</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/elektrtexnik-fnidn-tlblrning-eksperimentl-knikmlrini-fan-tlim-va-ishlab-chiqarish-integratsiyasi-shritid-rivjlntirish-metdiksi</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/38?articlesBySimilarityPage=3</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/chayon-yili</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/38?articlesBySimilarityPage=4</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/maktabgacha-talim-yoshidagi-bolalarning-psixologik-rivojlanishi-xususiyatlari</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/97</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/kartoshka-x-virusini-ajratish</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/100</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/jismoniy-tarbiya-nazariyasi-fani-taraqqiyotining-ustuvor-yonalishlari</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/39?articlesBySimilarityPage=2</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/maktabgacha-yoshdagi-tarbiyalanuvchilarini-jismoniy-tarbiya-darsiga-tayyorlash</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/39?articlesBySimilarityPage=3</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/maktabgacha-t-lim-tashkilotlarida-futbol-elementlarini-rgatish</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/39?articlesBySimilarityPage=4</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/boshlangich-sinf-oquvchilari-jismoniy-tarbiyasining-asosiy-tushunchalari</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/39?articlesBySimilarityPage=5</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/ozbek-tilining-tarixiy-fonetikasi</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/39?articlesBySimilarityPage=6</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/h-boboyev-ozbek-davlatchiligi-tarixi</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/search/search?query=maxsus%20maqsadlarga%20naltirilgan%20ingliz%20tili%20kasbiy%20lingvodidaktika%20fanlararo%20integratsiya%20metod%20mutaxassislik</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/jahon-sivilizatsiyalari-tarixi</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/105</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/duiakibova-metodika-prepodavaniia-literatur</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/183</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/oquvchilar-jismoniy-sifatlarini-rivojlantirishda-akmeologik-yondashuv</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/106?articlesBySimilarityPage=2</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/povisenie-effektivnosti-urokov-fiziceskoi-kultury-u-skolnikov-za-scet-primeneniia-innovacionnogo-klasternogo-metoda</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/106?articlesBySimilarityPage=3</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/jismoniy-tarbiya-oqituvchilarida-innovatsion-kasbiy-pedagogik-faoliyatlarni-rivojlantirish-imkoniyatlari</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/search/search?query=elektron%20doska%20proyektr%20investitsiya%20yil%20talabasi%20musobaqasi%20shon%20sharaf%20doskasi</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/oliy-oquv-yurtlarida-jismoniy-tarbiya-va-sport-togaraklarini-tashkil-qilishning-dolzarb-muammolari</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/40?articlesBySimilarityPage=2</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/innovatsion-klaster-yondashuvida-bolajak-jismoniy-tarbiya-oqituvchilarining-kasbiy-faoliyatlarini-takomillashtirish</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/40?articlesBySimilarityPage=3</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/povysenie-effektivnosti-urokov-fiziceskoi-kultury-zascet-primeneniia-klasternogo-metoda</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/40?articlesBySimilarityPage=4</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/kauzativ-munosabatning-fellarda-ifodalanishi</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/40?articlesBySimilarityPage=5</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/socio-philosophical-analysis-of-the-phenomenon-of-cultural-crash</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/40?articlesBySimilarityPage=6</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/yengil-atletika-va-uni-o-qitish-metodikasi-1</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/40?articlesBySimilarityPage=7</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/talim-transformatsiya/details</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/40?articlesBySimilarityPage=8</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/talim-transformatsiya/details?tab=application</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/40?articlesBySimilarityPage=9</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/media-makonda-suniy-intellekt-yangi-tarix-va-yangi-dunyoqarash/details</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/40?articlesBySimilarityPage=10</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/filologik-talim/details</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/search/search?query=ingliz%20tili%20boshlang%20ich%20lim%20milliy%20qadriyatlar%20umummadaniy%20kompetensiya%20madaniyatlararo%20muloqot%20pedagogik%20metodika%20talaba%20madaniy%20integratsiya%20identifikatsiya%20til%20madaniyat</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/pedagogika-tasviriysanat/details</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/71?articlesBySimilarityPage=2</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/jismoniy-tarbiya-tizimini-rivojlantirishning-dolzarb-muammolari-va-istiqboldagi-yechimlari/details</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/71?articlesBySimilarityPage=3</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/toshkent-vohasi-tarixiga-doir-zamonaviy-tadqiqotlar/details</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/71?articlesBySimilarityPage=4</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/en/news</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/71?articlesBySimilarityPage=5</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/en/news/breaking-news</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/71?articlesBySimilarityPage=6</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/en/virtual-tur/yangi-bino</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/71?articlesBySimilarityPage=7</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/en/international-students</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/search/search?query=madaniyatlararo%20muloqot%20kompetensiya%20lingvistik%20sotsiolingvistik%20ijtimoiy%20madaniy%20yondashuv</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/en/bachelors-degree</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/journal.namsifl.uz?articlesBySimilarityPage=2</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/en/talented-students2</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/journal.namsifl.uz?articlesBySimilarityPage=3</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/murojaatlar?staff_id=10&amp;unit_id=1</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/journal.namsifl.uz?articlesBySimilarityPage=4</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/tursunov-ikromjon-gulamjonovich</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/journal.namsifl.uz?articlesBySimilarityPage=5</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/berdiyev-shokir-xudonazarovich</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/search/search?query=texnik%20oliy%20lim%20muassasalari%20kasbiy%20kompetensiya%20leksik%20matn%20terminologik%20lug%20karta%20flesh%20vizual</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/narmanov-alisher-xasanovich</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/74?articlesBySimilarityPage=2</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/boymurodov-adham-xushimqulovich</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/74?articlesBySimilarityPage=3</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/azimkulov-azimkulov-sayhun-niyozali-ogli</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/search/search?query=critical%20thinking%20higher%20order%20skills%20meaningful%20discussions%20innovative%20varied%20ways%20debates%20real%20world%20contexts</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/djumabayev-gulomjon-xalillayevich</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/99</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/yalgashev-burxon-fayzullayevich</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/162</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/tillaboyev-azlarxon-magbarxonovich</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/90</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/murojaatlar?staff_id=69&amp;unit_id=3</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/76?articlesBySimilarityPage=2</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/abdullayev-sherali-abduqodir-ogli</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/76?articlesBySimilarityPage=3</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/abduraxmonov-abdushukur-gapparovich</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/76?articlesBySimilarityPage=4</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/bozorova-ogiloy-hikmat-qizi</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/76?articlesBySimilarityPage=5</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/murtazokulov-zafar-madat-ogli</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/76?articlesBySimilarityPage=6</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/raupova-mohinur-haydar-qizi</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/76?articlesBySimilarityPage=7</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/taymanova-elnora-lutfullayevna</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/76?articlesBySimilarityPage=8</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/yusupov-muxtorbek-rahimovich</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/76?articlesBySimilarityPage=9</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/aktamov-feruz</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/article/view/76?articlesBySimilarityPage=10</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/murojaatlar?staff_id=663&amp;unit_id=2</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://journal.namsifl.uz/index.php/zfm/search/search?query=mediakompetentlik%20boshlang%20ich%20sinf%20media%20savodxonlik%20axborot%20tahlil%20raqamli%20lim</loc>
-  <lastmod>2025-11-24T15:19:33+00:00</lastmod>
+  <loc>https://yangi.cspu.uz/kuralov-yuldash-abdullayevich</loc>
+  <lastmod>2025-11-24T20:16:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 
